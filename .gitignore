@@ -1,0 +1,14 @@
+# Entorno virtual (Librerías locales)
+.venv/
+venv/
+
+# Archivos temporales y caché de Python
+__pycache__/
+*.pyc
+
+# Configuraciones locales o de herramientas
+.sixth/
+.vscode/
+
+# VARIABLES DE ENTORNO SECRETA (¡La más importante!)
+.env
